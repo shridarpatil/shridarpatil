@@ -15,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Currently learning
+
+* Go
+* Web Design
+
+
+## Tech tags
+
+* Postgres
+* MySQL
+* web performance
+* CRM
+* GraphQL

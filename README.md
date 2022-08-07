@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 * CRM
 * GraphQL
 * Frappe
+* Python
+* Java Script
+* Shell Script
+

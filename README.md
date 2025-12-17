@@ -15,21 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Currently learning
-
-* Go
-* Web Design
 
 
-## Tech tags
+## Contact us
 
-* Postgres
-* MySQL
-* web performance
-* CRM
-* GraphQL
-* Frappe
-* Python
-* Java Script
-* Shell Script
 
+<a href="mailto:shrip.dev@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />

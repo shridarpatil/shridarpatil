@@ -1,6 +1,24 @@
 ### Hi there 👋
 
-![Shridhar's github stats](https://github-readme-stats.vercel.app/api?username=shridarpatil&count_private=true&show_icons=true&theme=radical)
+<!-- <h2 align="left"> Some Stats </h2> -->
+
+<p align="center">
+  <a href="https://github.com/shridarpatil">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shridarpatil&theme=tokyonight" alt="Profile details"/>
+  </a>
+  <a href="https://github.com/shridarpatil">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=shridarpatil&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shridarpatil">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shridarpatil&theme=tokyonight&exclude=github-slideshow,openclassroom,EXERCICE_JAVA" alt="Repos per language"/>
+  </a>
+  <a href="https://github.com/shridarpatil">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shridarpatil&theme=tokyonight" alt="Most commit language"/>
+  </a>
+</p>
 <!--
 **shridarpatil/shridarpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
